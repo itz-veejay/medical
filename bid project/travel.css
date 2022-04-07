@@ -1,0 +1,326 @@
+body{
+    margin: 0px;
+    width: 100%;
+    overflow-x: hidden;
+}
+@font-face {
+    font-family: play; 
+    src: url(RuslanDisplay-Regular.ttf);
+}    
+.outline{
+    width: 100%;
+    margin: auto;
+}
+.firstpage{
+    width: 100%;
+    height: 712px;
+    margin: 0px;
+    background-image: url(pexels-photo-5832871.jpeg);
+    background-size:cover
+
+}
+.firstpage h1{
+    color: white;
+    font-size: 130px;
+    font-family: play;
+    padding-top: 200px;
+    padding-left: 60px;
+    font-weight: 700;
+    line-height: 125px;
+    letter-spacing: -2px;
+    word-spacing: 7px;  
+    margin: 0px;  
+}
+.secondpage{
+    width: 100%;
+    height: 650px;
+}
+.leftpara{
+    width: 54%;
+    height: 650px;
+    padding: 0px;
+    display: inline-block;
+    float: left;
+    background-color: #f2f2f2;
+
+}
+.leftpara p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+    line-height: 2;
+    word-spacing: 1px;
+    margin: 0px;
+    padding-top: 72px;
+    padding-left: 108px;
+    padding-right: 108px;
+
+}
+.leftpara img{
+    display: inline-block;
+    width: 275px;
+    height: 280px;
+    padding-left: 205px;
+    padding-top: 6px;
+}
+.rightpara{
+    display: inline-block;
+    width: 46%;
+    height: 650px;
+    background-color: white;
+}
+.women{
+    width: 352px;
+    height: 418px;
+    padding-left: 130px;
+    padding-top: 51px;
+    object-fit: cover;
+}
+.rightpara p{
+    color: black;
+    display: inline-block;
+    padding-left: 167px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.arrow{
+    width: 40px;
+    height: 42px;
+    padding-left: 287px;
+}
+.thirdpage{
+    width: 100%;
+    height: 500px;    
+    padding: 0px;
+    border: 2px solid black;
+    background-color:  #292e33;
+}
+.leaf{
+    padding-left: 527px;
+    padding-top: 90px;
+    width: 207px;
+    height: 182px;
+}
+.h1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+.thirdpage p{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+    letter-spacing: 4px;
+    font-family: Roboto,sans-serif;
+    font-weight: 100;
+    color: white;
+    font-size: 20px;
+}
+.fourthpage{
+    background-color: #ccd3db;
+    width: 100%;
+    height: 590px;
+    margin-right: 65px;
+}
+.left{
+    width: 555px;
+    height: 470px;
+    display:  inline-block;
+    background-color: white;
+    margin-left: 65px;
+    margin-top: 66px;
+}
+.left h1{
+    margin-left: 60px;
+    margin-top: 58px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.left h2{
+    font-size: 30px;
+    margin-left: 60px;
+    font-weight: 700;
+}
+.left p{
+    margin-left: 60px;
+    text-align: left;
+    margin-right: 60px;
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: sans-serif;
+}
+.right{
+    width: 555px;
+    height: 470px;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: 66px;
+    display: inline-block;
+}
+.right h1{
+    margin-left: 60px;
+    margin-top: 58px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.right h2{
+    font-size: 30px;
+    margin-left: 60px;
+    font-weight: 700;
+}
+.right p{
+    margin-left: 60px;
+    text-align: left;
+    margin-right: 60px;
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: 24px;
+    font-family: sans-serif;
+}
+.fifthpage{
+    width: 100%;
+    height: 600px;
+    margin: 0px;
+    
+}
+.leftside{
+    display: inline-block;
+    width: 50%;
+    height: 0px;
+    margin-top: 121px;
+    margin-left: 121px;
+    text-align: center;
+    float: left;
+}
+.words{
+    letter-spacing: -1px;
+    word-spacing: 2px;
+    line-height: 47px;
+    font-size: 31px;
+    
+}
+.sub{
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin-left: -13px;
+}
+.rightside{
+    width: 35%;
+    display: inline-block;
+    margin-top: 54px;
+    padding-left: 40px;
+}
+.pic{
+    width: 380px;
+    height: 470px;
+}
+.sixthpage{
+    width: 100%;
+    height: 650px;
+}
+.small{
+    display: inline-block;
+    width: 45%;
+    height: 650px;
+    background-color: white;
+}
+.water{
+    width: 352px;
+    height: 418px;
+    padding-left: 130px;
+    padding-top: 51px;
+    object-fit: cover;
+}
+.small p{
+    color: black;
+    display: inline-block;
+    padding-left: 167px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.big{
+    width: 54%;
+    height: 650px;
+    padding: 0px;
+    display: inline-block;
+    background-color: #f2f2f2;
+    float: right;
+}
+.big p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    text-align: center;
+    line-height: 2;
+    word-spacing: 1px;
+    margin: 0px;
+    padding-top: 72px;
+    padding-left: 108px;
+    padding-right: 108px;
+}
+.big img{
+    display: inline-block;
+    width: 275px;
+    height: 280px;
+    padding-left: 205px;
+    padding-top: 6px;
+}
+.seventhpage{
+    width: 100%;
+    background-image: url(pexelsphoto3635134.jpeg);
+    background-size: cover;
+    height: 715px;
+    background-position-y: -126px;
+}
+.top h1{
+    color: white;
+    font-size: 61px;
+    font-weight: 800;
+    padding-top: 282px;
+    padding-left: 64px;
+    margin: 0px;
+    margin-bottom: 0px;
+}
+.kaya{
+    width: 55px;
+    height: 60px;
+    margin-left: 94px;
+    margin-top: 81px;   
+}
+.climb{
+    width: 55px;
+    height: 60px;
+    margin-left: 280px;
+    margin-top: 81px;
+}
+.cycle{
+    width: 55px;
+    height: 60px;
+    margin-left: 320px;
+    margin-top: 81px;
+}
+.king{
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    margin-left: 91px;
+}
+.free{
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    margin-left: 260px;
+}
+.bike{
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    margin-left: 255px;
+    
+}
+
